@@ -1,11 +1,11 @@
 version: "3.9"
 
 services:
-  tgvid-comp-bot:
+  VideoCompress:
     build:
       context: "."
       dockerfile: Dockerfile
-    container_name: tgvid-comp
+    container_name: VideoCompress
     environment:
       - APP_ID=${APP_ID}
       - API_HASH=${API_HASH}
