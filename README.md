@@ -89,6 +89,12 @@ exec - EXEC 🙄
 <p align="left">
 <a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
+Deploy your bot on `Okteto`
+
+  
+
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
+
 
 ### Credits:
 * [Jijinr](https://github.com/Jijinr)
